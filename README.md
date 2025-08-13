@@ -45,8 +45,8 @@ Siga os passos abaixo para configurar e executar a aplicação em seu ambiente l
 ### 1. Clone o Repositório
 
 ```bash
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-cd seu-repositorio
+git clone [https://github.com/verasalan/projeto-crudsimples-fullstack.git](https://github.com/verasalan/projeto-crudsimples-fullstack.git)
+cd projeto-crudsimples-fullstack
 ```
 
 ### 2. Executando o Backend (A Cozinha)
